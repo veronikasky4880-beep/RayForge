@@ -2,7 +2,7 @@
 using RayForge.Core;
 using RayForge.Math;
 
-namespace RayForge.World
+namespace RayForge.World 
 {
     public sealed class Player
     {
