@@ -12,7 +12,7 @@ namespace RayForge.Graphics
         private readonly TextureManager _textures;
         public SpriteRenderer(TextureManager textures)
         {
-            _textures = textures;
+            _textures = textures; 
         }
         public void Render(
             System.Drawing.Graphics graphics,
